@@ -17,11 +17,11 @@ const item = {
     opacity: 1,
     y: 0,
     transition: {
-      duration: 0.45,
-      ease: "easeOut",
+      duration: 0.4,
     },
   },
 };
+
 
 export default function Contact() {
   return (
