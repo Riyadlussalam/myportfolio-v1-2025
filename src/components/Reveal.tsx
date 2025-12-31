@@ -14,7 +14,6 @@ export default function Reveal({ children }: RevealProps) {
       viewport={{ once: true, amount: 0.3 }}
       transition={{
         duration: 0.8,
-        ease: "easeOut",
       }}
     >
       {children}
