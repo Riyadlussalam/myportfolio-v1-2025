@@ -40,7 +40,7 @@ export default function Contact() {
           variants={item}
           className="text-3xl md:text-4xl font-semibold tracking-tight"
         >
-          Let’s Connect
+          Let&apos;s Connect
         </motion.h2>
 
         <motion.p
