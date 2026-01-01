@@ -15,7 +15,7 @@ export default function Hero() {
 
   return (
     <section id="home" className="relative min-h-screen w-full flex items-center justify-center overflow-hidden">
-      <HeroBackground />
+      {/* <HeroBackground /> */}
       <div className="max-w-3xl text-center space-y-6">
         <div className="flex justify-center">
           <span
