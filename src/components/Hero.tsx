@@ -59,7 +59,9 @@ export default function Hero() {
 
         <div className="flex justify-center gap-4 pt-4">
           <a
-            href="#"
+            href="https://drive.google.com/drive/folders/1H4i5qHFX2tFwdqKRcS7FhE2ewy7r46hz?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl
             bg-gradient-to-r from-slate-700 to-slate-900
             border border-slate-700
@@ -70,13 +72,14 @@ export default function Hero() {
           </a>
 
           <a
-            href="#"
+            href="#experience"
             className="px-6 py-3 rounded-xl
             border border-slate-700
             hover:shadow-[0_0_20px_rgba(16,185,129,0.4)]
             transition-all duration-300"
           >
             See My Work
+            <span className="group-hover:translate-x-1 transition"> </span>
           </a>
         </div>
 
